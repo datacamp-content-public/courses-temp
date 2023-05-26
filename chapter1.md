@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: Chapter Title Here
+description: Chapter description goes here.
 ---
 
 ## Example coding exercise
@@ -10,7 +10,8 @@ type: NormalExercise
 key: 2bafef99a3
 lang: r
 xp: 100
-skills: 1
+skills:
+  - 1
 ```
 
 This is an example exercise.
